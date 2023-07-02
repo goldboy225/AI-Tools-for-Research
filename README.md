@@ -7,3 +7,8 @@ I have compiled a repository of AI tools that can be helpful for our research pr
 |--|--|--|--|
 | [Consensus](https://consensus.app/search/) | Ask a question, and get conclusions from research papers | Learn conclusion from quesitons, review article writing | 2023-07-02|
 
+## AI Tools (AI通用工具)  
+| Tools | Desc | Scenarios |Date|
+|--|--|--|--|
+| [10web](https://10web.io/) | AI Website Builder, build or recreate any website in minutes. | Create your own website | 2023-07-02|
+
