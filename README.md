@@ -6,6 +6,7 @@ I have compiled a repository of AI tools that can be helpful for our research pr
 | Tools | Desc | Scenarios |Date|
 |--|--|--|--|
 | [Consensus](https://consensus.app/search/) | Ask a question, and get conclusions from research papers | Learn conclusion from quesitons, review article writing | 2023-07-02|
+| [ResearchRabbit](https://www.researchrabbit.ai/) | Paper collection, keep up-to-date, visualize networks, and explore together | Learn domain area efficiently, review article writing | 2023-07-03|
 
 ## AI Tools (AI通用工具)  
 | Tools | Desc | Scenarios |Date|
