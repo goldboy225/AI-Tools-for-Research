@@ -10,6 +10,8 @@ I have compiled a repository of AI tools that can be helpful for our research pr
 | [Covidence](https://www.covidence.org/) | Good for efficient systematic literature review, however, free edition has many limitations such as 500 papers, 2 reviewers, and only screen is supported | good for fresh researchers working on SLR | 2023-07-05|
 | [RDiscovery](https://researcher.life/) | Good for scoping literatures searching for systematic literature review, also support mobile APP for convenience | good for fresh researchers working on literature searching for SLR | 2023-07-07|
 | [Connected Papers](https://www.connectedpapers.com/) | Explore connected papers in a visual graph | good for getting a visual overview of a new academic field, especially good for the section of related works! | 2023-07-08|
+| [Iris.AI](https://iris.ai/) | A comprehensive platform for all your research processing: Smart search and a wide range of smart filters, reading list analysis, auto-generated summaries, autonomous extraction and systematizing of data. | good for data extraction for literature review! | 2023-07-11|
+
 
 ## AI Tools (AI通用工具)  
 | Tools | Desc | Scenarios |Date|
