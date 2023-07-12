@@ -11,8 +11,7 @@ I have compiled a repository of AI tools that can be helpful for our research pr
 | [RDiscovery](https://researcher.life/) | Good for scoping literatures searching for systematic literature review, also support mobile APP for convenience | good for fresh researchers working on literature searching for SLR | 2023-07-07|
 | [Connected Papers](https://www.connectedpapers.com/) | Explore connected papers in a visual graph | good for getting a visual overview of a new academic field, especially good for the section of related works! | 2023-07-08|
 | [Iris.AI](https://iris.ai/) | A comprehensive platform for all your research processing: Smart search and a wide range of smart filters, reading list analysis, auto-generated summaries, autonomous extraction and systematizing of data. | good for data extraction for literature review! | 2023-07-11|
-| [Paper Digest](https://www.paperdigest.org/) | An AI-powered platform to track, search, review and rewrite scientific literature
- | good for for literature review! | 2023-07-12|
+| [Paper Digest](https://www.paperdigest.org/) | An AI-powered platform to track, search, review and rewrite scientific literature. | good for for literature review! | 2023-07-12|
 
 
 ## AI Tools (AI通用工具)  
