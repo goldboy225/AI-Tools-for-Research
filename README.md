@@ -12,6 +12,7 @@ I have compiled a repository of AI tools that can be helpful for our research pr
 | [Connected Papers](https://www.connectedpapers.com/) | Explore connected papers in a visual graph | good for getting a visual overview of a new academic field, especially good for the section of related works! | 2023-07-08|
 | [Iris.AI](https://iris.ai/) | A comprehensive platform for all your research processing: Smart search and a wide range of smart filters, reading list analysis, auto-generated summaries, autonomous extraction and systematizing of data. | good for data extraction for literature review! | 2023-07-11|
 | [Paper Digest](https://www.paperdigest.org/) | An AI-powered platform to track, search, review and rewrite scientific literature. | good for for literature review，especially good for ICML! | 2023-07-12|
+| [Sci Space](https://typeset.io/) | SciSpace is the easiest way to find, understand, and learn any research paper. For every paper you read, get simple explanations and answers from AI and discover a network of connected and relevant papers — all in one place. | good for for data extraction in literature review when you have a question or topic，especially good for understanding a specific paper! | 2023-07-14|
 
 
 ## AI Tools (AI通用工具)  
