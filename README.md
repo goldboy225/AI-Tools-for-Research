@@ -5,7 +5,7 @@ I have compiled a repository of AI tools that can be helpful for our research pr
 ## AI Tools (AI学术工具)  
 | Tools | Desc | Scenarios |Date|
 |--|--|--|--|
-| [Consensus](https://consensus.app/search/) | Ask a question, and get conclusions from research papers | Learn conclusion from quesitons, review article writing | 2023-07-02|
+| [Consensus](https://consensus.app/search/) | Ask a question, and get conclusions from research papers；通过问题，即可找到文献 | Learn conclusion from quesitons, review article writing；适合文献综述中，可以通过问题直达结论，以及找到支撑结论的文献 | 2023-07-02|
 | [ResearchRabbit](https://www.researchrabbit.ai/) | Paper collection, keep up-to-date, visualize networks, and explore together | Learn domain area efficiently, review article writing | 2023-07-03|
 | [Covidence](https://www.covidence.org/) | Good for efficient systematic literature review, however, free edition has many limitations such as 500 papers, 2 reviewers, and only screen is supported | good for fresh researchers working on SLR | 2023-07-05|
 | [RDiscovery](https://researcher.life/) | Good for scoping literatures searching for systematic literature review, also support mobile APP for convenience | good for fresh researchers working on literature searching for SLR | 2023-07-07|
