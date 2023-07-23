@@ -14,6 +14,7 @@ I have compiled a repository of AI tools that can be helpful for our research pr
 | [Paper Digest](https://www.paperdigest.org/) | An AI-powered platform to track, search, review and rewrite scientific literature. | good for for literature review，especially good for ICML! | 2023-07-12|
 | [Sci Space](https://typeset.io/) | SciSpace is the easiest way to find, understand, and learn any research paper. For every paper you read, get simple explanations and answers from AI and discover a network of connected and relevant papers — all in one place. | good for for data extraction in literature review when you have a question or topic，especially good for understanding a specific paper! | 2023-07-14|
 | [Zeta Alpha](https://search.zeta-alpha.com/) | Discover the latest papers and information, and tag the feed for what you like | good for quick discovering papers and latest info about domain area.  | 2023-07-21|  
+| [AIgent](https://aigents.co/) | A career hub for Data Scientists, Machine Learning Engineers & Developers. Handpicked jobs, events & learning resources. | Good guide with concrete roadmap for learning data science and machine learning. 特别适合学习数据科学和机器学习，其交互式路线学习图非常使用有效！  | 2023-07-23|  
 
 
 ## AI Tools (AI通用工具)  
